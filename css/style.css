@@ -1,14 +1,24 @@
+/* below is the css for the index page*/
+
 body {
     background-color: beige;
 }
 
-.header{
+.index-header{
     font-family: 'Times New Roman', Times, serif;
     font-size: 80px;
     color: brown;
     text-align: center;
 }
 
-.list-items{
+.index-list{
     font-size: 40px;
+    color: cadetblue;
 }
+
+.link{
+    font-size: 40px;
+    color: cadetblue;
+}
+
+/* below is the css for the beef stew page*/
